@@ -1,0 +1,35 @@
+body { 
+    background-color: maroon;
+    font-size: large;
+}
+
+p {
+    text-align: center;
+    color: yellow;
+}
+
+h1 {
+    text-align: center;
+    color: mintcream;
+}
+
+h2 {
+    text-align: center;
+    color:mintcream
+}
+
+a {
+    font-size: large;
+    color:mintcream
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+ul {
+    text-align: center;
+}
